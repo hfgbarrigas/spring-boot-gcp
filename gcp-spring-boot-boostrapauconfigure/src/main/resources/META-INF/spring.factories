@@ -1,0 +1,4 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+  io.hfbarrigas.gcp.boostrapconfiguration.HttpClientAutoConfiguration,\
+  io.hfbarrigas.gcp.boostrapconfiguration.GoogleCloudMetadataConfiguration,\
+  io.hfbarrigas.gcp.boostrapconfiguration.GoogleCloudCredentialsAutoConfiguration
