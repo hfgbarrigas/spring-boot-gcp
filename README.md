@@ -8,7 +8,7 @@ services.
 add the following dependency to your pom.xml.
 
     <dependency>
-        <groupId>co.hold</groupId>
+        <groupId>io.hfbarrigas</groupId>
         <artifactId>google-cloud-client-spring-boot</artifactId>
         <version>X</version>
     </dependency>
